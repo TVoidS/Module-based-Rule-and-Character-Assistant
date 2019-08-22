@@ -3,7 +3,7 @@
 This program is a personal reconstruction of a previous project that I led.  
 The purpose of this reconstruction is practice, so that I can get back into working on that version cleanly and know what I am doing again.
 
-This is the link to the original set:
+This is the link to a fork of the original set:
 https://github.com/TVoidS/PathFinder
 
 ## Description
@@ -19,9 +19,7 @@ I may end up making a website for the sharing of modules, but that would be afte
 ## Thanks
 Thanks to dhagerty9009 and dchesser for their help with the version we made during school, please check them out if you wish.
 They are both great coders that put good work into the project and I have learned from both of them.
-
-Also thanks to Paizo for making the game and making so much of the game open to be shared, which allows a program such as this to exist.
-They do NOT sponser or have any stake in this program however, as it is a purely personal project, the link to the full disclaimer and all that legal stuff will be in here soon.
+Thanks also to Paizo, who made the Pathfinder RPG.
 
 ## DISCLAIMER + Legal stuffs
 This program uses trademarks and/or copyrights owned by Paizo Inc., which are used under Paizo's Community Use Policy. We are expressly prohibited from charging you to use or access this content. This program is not published, endorsed, or specifically approved by Paizo Inc. For more information about Paizo's Community Use Policy, please visit [paizo.com/communityuse](paizo.com/communityuse). For more information about Paizo Inc. and Paizo products, please visit [paizo.com](paizo.com).
